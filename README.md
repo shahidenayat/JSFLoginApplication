@@ -23,4 +23,4 @@
 - JSF
   - Java Server Faces as a web application framework
   - XHTML webpages, templates, communication with Java Beans
-- Hibernate (ORM)
+
